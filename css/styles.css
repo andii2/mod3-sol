@@ -1,0 +1,28 @@
+#brand {
+	font-size: 2em;
+}
+
+#bs-example-navbar-collapse-1 {
+	width: 100%;
+	/*text-align: center; */
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+}
+
+#bs-example-navbar-collapse-1 hr {
+	margin: 0;
+}
+
+#bs-example-navbar-collapse-1 ul {
+	margin: 0;
+	background-color: #e4e5c9;
+}
+
+#bs-example-navbar-collapse-1 ul li:hover, #bs-example-navbar-collapse-1 ul li:active {
+	background-color: #e2e585;
+}
+
+#main-content section {
+	background-color: #eaeae1;
+}
